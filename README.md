@@ -1,6 +1,6 @@
 # Welcomer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 **A welcomer bot for discord written in discord.js v12 very simple to use with code and deployment instructions!**
-## **This Welcomer bot was created by ItsMc#0001**
+## **This Welcomer bot was created by ItsMC#0001**
 
 ### To deploy the bot follow the instructions documented below:
 - If you want a simple welcomer obtain a token from [here](https://discord.com/developers)
@@ -35,4 +35,4 @@ Copyright 2021 © All RIghts are Reserved | If you are using any part of code pl
 - Canvas (for image welcomer) v1.4
 ## Need help? Join the [Support Server](https://discord.gg/REAW5VM)
 
-### © Zero | 0_0#6666 - 2020
+### © Zero | ItsMC#0001 - 2020

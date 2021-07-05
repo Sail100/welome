@@ -1,9 +1,9 @@
 {
   "name": "Welcomer",
   "version": "v1.0.1",
-  "description": "Basic Welcomer By sail100",
+  "description": "Basic Welcomer By ItsMC",
   "main": "Index.js",
-  "author": "ZeroSync",
+  "author": "itsMC",
   "scripts": {
     "start": "node Index.js"
   },

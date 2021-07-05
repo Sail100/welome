@@ -35,4 +35,4 @@ Copyright 2021 © All RIghts are Reserved | If you are using any part of code pl
 - Canvas (for image welcomer) v1.4
 ## Need help? Join the [Support Server](https://discord.gg/REAW5VM)
 
-### © Zero | ItsMC#0001 - 2020
+### © itsMC | ItsMC#0001 - 2021

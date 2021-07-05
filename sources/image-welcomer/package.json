@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "itsMC",
-  "license": "CC0-1.1",
+  "license": "MIT-",
   "dependencies": {
     "discord-canvas": "^1.4.1",
     "discord.js": "^12.5.1",

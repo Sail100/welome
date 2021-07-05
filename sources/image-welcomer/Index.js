@@ -1,5 +1,5 @@
 const Discord = require('discord.js')
-const canvas = require('discord-canvas')
+const canvas = require('discord-canvas'),
     welcomeCanvas = new canvas.Welcome(),
     leaveCanvas = new canvas.Goodbye()
 
